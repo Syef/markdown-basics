@@ -39,3 +39,13 @@ I am living in [guntur](https://guntur.ap.gov.in/), ap, india
 - *designation*:developer
 - github profile:
 [github profile](https://github.com/Syef/markdown-basics)
+
+
+### my data in json format
+``` json format
+{
+    "NAME"        :    "HAFEEZ",
+    "CITY"        :    "GUNTUR",
+    "DESIGNATION" :    "DEVOLAPER",
+    "PROFILE"     :    "GITHUB"   
+} ```
