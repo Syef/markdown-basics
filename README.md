@@ -53,3 +53,87 @@ I am living in [guntur](https://guntur.ap.gov.in/), ap, india
     "PROFILE"     :    "GITHUB"   
 }
  ```
+
+
+
+ # markdown sintex guide
+
+## headers
+
+# army base camp
+### siachen glacier
+###### camp 5
+*299medregt*
+
+_299 medregt_
+
+
+**this is army base camp**
+
+__this is army base camp__
+
+## lists
+
+### unordered
+
+* item 1
+* item 2
+* item 2a
+* item 2b
+
+### ordered
+1. item 1
+1. item 2
+1. item 3
+    1. item 3a
+    1. item 3b
+    
+    ## images
+    ![my profile](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/pics1_0_1200x768.png?VersionId=3sVfAWMaoc5XF4d.64_H6yo2tv1mKCA9&size=690:388)
+    
+    ## links
+    [website](https://github.com/Syef/markdown-basics)
+    
+    ## block quotes
+    > this is a paragraph
+    >
+    
+    >> markdown a para graph.
+    
+    ## tables
+    
+   |   id   |   name    | city |mob no  |
+   |--------|-----------|-----|---------|
+   |1       |syed       |hgff|8427769348
+   |2       |hafeez     |mnhg|2625422252|
+   |3      | bgfddd|  nbbv |2555252512|
+   
+   
+    ## block of codes
+    ```
+    let message = 'hello world'
+    alert (message);
+    ```
+   
+   
+   
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
