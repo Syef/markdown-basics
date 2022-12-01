@@ -42,11 +42,14 @@ I am living in [guntur](https://guntur.ap.gov.in/), ap, india
 
 
 ### my data in json format
+
  json format
+
  ```
-{
+ {
     "NAME"        :    "HAFEEZ",
     "CITY"        :    "GUNTUR",
     "DESIGNATION" :    "DEVOLAPER",
     "PROFILE"     :    "GITHUB"   
-} ```
+}
+ ```
